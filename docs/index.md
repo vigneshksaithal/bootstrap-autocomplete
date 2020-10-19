@@ -5,13 +5,13 @@
 
 ## Installation
 Fork this project and use it in your website.
-<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">Download FILE</a>
+<a id="raw-url" href="https://github.com/vigneshksaithal/bootstrap-autocomplete">Fork It</a>
 
 [OR]
 
 You can also use this by addign the below code to your website.
 ```
-<script src="https://cdn.jsdelivr.net/gh/vigneshksaithal/bootstrap-autocomplete@1.0.0/src/index.min.js" integrity="sha384-IEcBGr1njXrPGB6q5LWdWuYaj5Uz0O26Ndmqf9TfH4/va9Xv0FdeQe4IgNqpRlZ3" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/gh/vigneshksaithal/bootstrap-autocomplete@1.0.0/src/index.min.js"></script>
 ```
 ## Usage
 The JavaScript component consists of a root container element, div with **id="autocomplete"** and an input element.
@@ -20,7 +20,7 @@ The JavaScript component consists of a root container element, div with **id="au
   <input id="search" type="text" class="form-contorol"/>
 </div>
 ```
-Initiate the autocomplete function once
+Initiate the autocomplete function once.
 Pass the search(input) element and the array of values.
 
 ```
@@ -31,4 +31,5 @@ Pass the search(input) element and the array of values.
 </script>
 ```
 
-Support or Contact
+Support or Contact:
+!(image)
