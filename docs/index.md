@@ -1,5 +1,20 @@
 ## Welcome to GitHub Pages
 
+#Feature
+
+
+#Installation
+Fork this project and use it in your website.
+
+[OR]
+
+You can also use this using GitHub via cdnjs
+`<script src="https://cdn.jsdelivr.net/gh/vigneshksaithal/bootstrap-autocomplete@1.0.0/cdn/index.js" integrity="sha384-IEcBGr1njXrPGB6q5LWdWuYaj5Uz0O26Ndmqf9TfH4/va9Xv0FdeQe4IgNqpRlZ3" crossorigin="anonymous"></script>`
+
+#Usage
+
+
+
 You can use the [editor on GitHub](https://github.com/vigneshksaithal/bootstrap-autocomplete/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
