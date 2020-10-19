@@ -10,11 +10,13 @@ Fork this project and use it in your website.
 
 [OR]
 
-You can also use this by addign the below code to your website.
+You can also use this by adding the below code to your website.
 ```
 <script src="https://cdn.jsdelivr.net/gh/vigneshksaithal/bootstrap-autocomplete@1.0.0/src/index.min.js"></script>
 ```
 ## Usage
+
+STEP 0: Add bootstrap CSS.
 
 STEP 1: Add javascript to your web app.
 ```
