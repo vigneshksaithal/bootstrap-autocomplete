@@ -1,4 +1,4 @@
-See <a href="https://vigneshksaithal.github.io/bootstrap-autocomplete/demo">DEMO</a>
+## See <a href="https://vigneshksaithal.github.io/bootstrap-autocomplete/demo">DEMO</a>
 ## Features
 - **1.8kb minified**
 - **Pure Vanilla JavaScript**
@@ -19,6 +19,7 @@ You can also use this by addign the below code to your website.
 ```
 <script src="/bootstrap-autocomplete.min.js"></script>
 ```
+
 [OR]
 
 Directly add jsDelivr CDN provided below.
@@ -27,11 +28,10 @@ Directly add jsDelivr CDN provided below.
 ```
 
 2. Add HTML code.
-```
-<div id="autocomplete">
+
+```<div id="autocomplete">
   <input id="search" type="text" class="form-contorol"/>
-</div>
-```
+</div>```
 
 3. Initiate the autocomplete function.
 Pass the search(input) element and the array of values.
