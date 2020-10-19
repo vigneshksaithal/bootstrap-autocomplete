@@ -1,5 +1,5 @@
 ## Features
-- **1.5kb minified**
+- **1.8kb minified**
 - **Pure Vanilla JavaScript**
 - **Only bootstrap CSS Required**
 
