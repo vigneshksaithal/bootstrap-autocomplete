@@ -39,13 +39,13 @@ Directly add jsDelivr CDN provided below.
 3. Initiate the autocomplete function.
 Pass the search(input) element and the array of values.
 
-```
+`
 <script>
   var arr = ['apple', 'mango', 'grapes'];
   var search = document.getElementById('search');
   autocomplete(search, arr);
 </script>
-```
+`
 
 ## Contributions
 If you find any bugs or have any feature requests then just raise a issue.
