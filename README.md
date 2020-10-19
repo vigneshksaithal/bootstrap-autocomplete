@@ -5,12 +5,12 @@
 - **Only bootstrap CSS Required**
 
 ## Installation
-Fork this project and use it in your website.
+Fork this repository and use it in your website.
 <a id="raw-url" href="https://github.com/vigneshksaithal/bootstrap-autocomplete">Fork It</a>
 
 [OR]
 
-You can also use this by addign the below code to your website.
+You can also use this by adding the below code to your website.
 ```
 <script src="https://cdn.jsdelivr.net/gh/vigneshksaithal/bootstrap-autocomplete@1.0.0/src/index.min.js"></script>
 ```
