@@ -22,7 +22,7 @@ The JavaScript component consists of a root container element, div with **id="au
 Initiate the autocomplete function once
 Pass the search(input) element and the array of values.
 
-'''
+```
 <script>
   var arr = ['apple', 'mango', 'grapes'];
   var search = document.getElementById('search');
