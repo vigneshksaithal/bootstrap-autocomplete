@@ -7,9 +7,9 @@ Fork this project and use it in your website.
 [OR]
 
 You can also use this using GitHub via cdnjs
-
+```
 `<script src="https://cdn.jsdelivr.net/gh/vigneshksaithal/bootstrap-autocomplete@1.0.0/cdn/index.js" integrity="sha384-IEcBGr1njXrPGB6q5LWdWuYaj5Uz0O26Ndmqf9TfH4/va9Xv0FdeQe4IgNqpRlZ3" crossorigin="anonymous"></script>`
-
+```
 # Usage
 
 
