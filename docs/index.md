@@ -1,7 +1,7 @@
-## Feature
-- # 2.5kb minified.
-- Pure Vanilla JavaScript.
-- Only bootstrap CSS Required.
+## Features
+- ### 2.5kb minified
+- ## Pure Vanilla JavaScript
+- ## Only bootstrap CSS Required
 
 ## Installation
 Fork this project and use it in your website.
