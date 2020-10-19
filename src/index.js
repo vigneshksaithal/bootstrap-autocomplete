@@ -2,7 +2,7 @@ function autocomplete(inp, arr) {
 
   var d = document.getElementById('autocomplete');
 
-  d.classList.add('list-group', 'position-relative', 'd-print-inline-block', 'm-5');
+  d.classList.add('list-group', 'position-relative', 'd-print-inline-block');
 
   var currentFocus;
 
@@ -28,7 +28,7 @@ function autocomplete(inp, arr) {
 
     a.setAttribute('class', 'autocomplete-items');
 
-    a.classList.add('position-absolute', 'mt-5', 'w-100', 'mt-2', 'rounded', 'shadow-sm');   
+    a.classList.add('position-absolute', 'mt-5', 'w-100', 'rounded', 'shadow-sm');   
 
       
 
