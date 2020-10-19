@@ -1,3 +1,4 @@
+See <a href="https://vigneshksaithal.github.io/bootstrap-autocomplete/demo">DEMO</a>
 ## Features
 - **1.8kb minified**
 - **Pure Vanilla JavaScript**
