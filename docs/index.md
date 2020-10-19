@@ -1,7 +1,7 @@
 ## Features
-- ### 2.5kb minified
-- ## Pure Vanilla JavaScript
-- ## Only bootstrap CSS Required
+- **2.5kb minified**
+- **Pure Vanilla JavaScript**
+- **Only bootstrap CSS Required**
 
 ## Installation
 Fork this project and use it in your website.
@@ -19,7 +19,7 @@ The JavaScript component consists of a root container element, div with **ID: au
   <input **id="search"** type="text" class="form-contorol"/>
 </div>
 ```
-### Initiate the autocomplete function once
+Initiate the autocomplete function once.
 Pass the search(input) element and the array of values.
 '''
 <script>
