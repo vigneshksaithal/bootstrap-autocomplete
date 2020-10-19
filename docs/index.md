@@ -19,16 +19,19 @@ You can also use this by addign the below code to your website.
 <script src="/bootstrap-autocomplete.min.js"></script>
 ```
 [OR]
+
 Directly add jsDelivr CDN provided below.
 ```
 <script src="https://cdn.jsdelivr.net/gh/vigneshksaithal/bootstrap-autocomplete@1.0.0/src/index.min.js"></script>
 ```
+
 2. Add HTML code.
 ```
 <div id="autocomplete">
   <input id="search" type="text" class="form-contorol"/>
 </div>
 ```
+
 3. Initiate the autocomplete function.
 Pass the search(input) element and the array of values.
 
@@ -39,6 +42,7 @@ Pass the search(input) element and the array of values.
   autocomplete(search, arr);
 </script>
 ```
+
 ## Contributions
 If you find any bugs or have any feature requests then just raise a issue.
 Thanks You🙏
