@@ -30,6 +30,3 @@ Pass the search(input) element and the array of values.
   autocomplete(search, arr);
 </script>
 ```
-
-Support or Contact:
-!(image)
