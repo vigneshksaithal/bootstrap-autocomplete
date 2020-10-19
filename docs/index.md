@@ -14,13 +14,22 @@ You can also use this by addign the below code to your website.
 <script src="https://cdn.jsdelivr.net/gh/vigneshksaithal/bootstrap-autocomplete@1.0.0/src/index.min.js"></script>
 ```
 ## Usage
-The JavaScript component consists of a root container element, div with **id="autocomplete"** and an input element.
+1. Add javascript to your web app.
+```
+<script src="/bootstrap-autocomplete.min.js"></script>
+```
+[OR]
+Directly add jsDelivr CDN provided below.
+```
+<script src="https://cdn.jsdelivr.net/gh/vigneshksaithal/bootstrap-autocomplete@1.0.0/src/index.min.js"></script>
+```
+2. Add HTML code.
 ```
 <div id="autocomplete">
   <input id="search" type="text" class="form-contorol"/>
 </div>
 ```
-Initiate the autocomplete function once.
+3. Initiate the autocomplete function.
 Pass the search(input) element and the array of values.
 
 ```
@@ -30,3 +39,6 @@ Pass the search(input) element and the array of values.
   autocomplete(search, arr);
 </script>
 ```
+## Contributions
+If you find any bugs or have any feature requests then just raise a issue.
+Thanks You🙏
