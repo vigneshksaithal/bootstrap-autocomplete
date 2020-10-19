@@ -5,6 +5,7 @@
 
 ## Installation
 Fork this project and use it in your website.
+<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">Download FILE</a>
 
 [OR]
 
