@@ -1,5 +1,5 @@
 # bootstrap-autocomplete
-## See <a href="https://vigneshksaithal.github.io/bootstrap-autocomplete/demo.html">DEMO</a>
+**See <a href="https://vigneshksaithal.github.io/bootstrap-autocomplete/demo.html">DEMO</a>**
 ## Features
 - **1.8kb minified**
 - **Pure Vanilla JavaScript**
