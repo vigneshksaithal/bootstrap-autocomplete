@@ -13,7 +13,7 @@ Fork this project and use it in your website.
 
 You can also use this by adding the below code to your website.
 ```
-<script src="https://cdn.jsdelivr.net/gh/vigneshksaithal/bootstrap-autocomplete@1.0.0/src/index.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/vigneshksaithal/bootstrap-autocomplete@main/src/index.min.js"></script>
 ```
 ## Usage
 
@@ -28,7 +28,7 @@ STEP 1: Add javascript to your web app.
 
 Directly add jsDelivr CDN provided below.
 ```
-<script src="https://cdn.jsdelivr.net/gh/vigneshksaithal/bootstrap-autocomplete@1.0.0/src/index.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/vigneshksaithal/bootstrap-autocomplete@main/src/index.min.js"></script>
 ```
 
 STEP 2: Add HTML code.
