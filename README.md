@@ -11,7 +11,7 @@ Fork this project and use it in your website.
 
 [OR]
 
-You can also use this by adding the below code to your website.
+You can also use this by adding the below code to your website[For testing/demo purposes].
 ```
 <script src="https://cdn.jsdelivr.net/gh/vigneshksaithal/bootstrap-autocomplete@main/src/index.min.js"></script>
 ```
