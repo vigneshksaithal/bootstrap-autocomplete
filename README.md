@@ -32,6 +32,7 @@ Directly add jsDelivr CDN provided below.
 ```
 
 STEP 2: Add HTML code.
+Give the component div **id="autocomplete"**.
 
 ```
 <div id="autocomplete">
